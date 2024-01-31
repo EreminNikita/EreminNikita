@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**EreminNikita/EreminNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**EreminNikita/EreminNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--https://www.codewars.com/users/EreminNikita/badges/small
+- ⚡ Fun fact: ...-->
